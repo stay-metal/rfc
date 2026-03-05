@@ -1,27 +1,30 @@
 ---
-id: FEAT-XXXX
-title: "Название фичи"
-status: draft | in_analysis | validated | approved | in_dev | in_qa | on_stage | released | cancelled
-owner_product: "ФИО/роль"
-owner_tech: "Тимлид/команда"
-created: YYYY-MM-DD
-updated: YYYY-MM-DD
-links:
-  youtrack: "..."
-  figma: "..."
-  api_spec: "..."
-  ml_spec: "..."
-  dashboards: "..."
----
-
 # FEAT-XXXX: Название фичи
 
+| Поле | Значение |
+|---|---|
+| ID | FEAT-XXXX |
+| Статус | draft |
+| Product owner | ФИО / роль |
+| Технический ответственный | Тимлид / команда |
+| Создано | YYYY-MM-DD |
+| Обновлено | YYYY-MM-DD |
+
+## Связанные материалы
+- **YouTrack:** ...
+- **Figma:** ...
+- **API spec:** ...
+- **ML spec:** ...
+
+---
+
 ## 0) TL;DR
-**Что делаем:** …  
-**Зачем:** …  
-**Для кого:** …  
-**Критерий успеха:** …  
-**Риски:** …
+
+**Что делаем:** ...  
+**Зачем:** ...  
+**Для кого:** ...  
+**Критерий успеха:** ...  
+**Риски:** ...
 
 ---
 
